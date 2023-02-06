@@ -1,0 +1,12 @@
+body {
+    background-color: #1b1b1b;
+    background-size: cover;
+    overflow: scroll;
+}
+
+.intro{
+    height: 700vh;
+    background: url(../img/11.png) no-repeat center;
+    background-size: cover;
+    padding-top: 263px;
+}
